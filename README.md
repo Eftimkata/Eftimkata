@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eftimkata aka Eftimij
 - 👀 I’m interested in Python, Html, Css and JavaScript
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ✨ *Python* ✨
 - 💞️ I’m looking to collaborate on Nothing yet
 - 📫 How to reach me...
 > Via e-mail: eftimij.github@gmail.com
